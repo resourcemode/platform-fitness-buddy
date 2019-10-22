@@ -1,5 +1,11 @@
 # Fitness Buddy
 A social platform where fit and fitness enthusiast meet
+
+## Installation Tools Required
+- Docker
+- Maven
+- Java 1.8
+
 ## Run build and test
 ``mvn clean install``
 
